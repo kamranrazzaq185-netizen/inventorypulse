@@ -48,7 +48,7 @@ only 12.2 days of stock remaining.
 <img width="1536" height="1024" alt="ChatGPT Image May 14, 2026, 04_44_14 PM" src="https://github.com/user-attachments/assets/e0a1ab68-fbff-4828-a9ba-c91aab036044" />
 
 
-Three visuals. Three questions answered:
+Three Important visuals. Three questions answered:
 - Which products are critical right now?
 - Which categories carry the most risk?
 - How much runway does each SKU have left?
