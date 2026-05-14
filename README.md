@@ -45,7 +45,8 @@ only 12.2 days of stock remaining.
 
 ## Dashboard
 
-![InventoryPulse Dashboard](assets/dashboard_preview.png)
+<img width="1536" height="1024" alt="ChatGPT Image May 14, 2026, 04_44_14 PM" src="https://github.com/user-attachments/assets/e0a1ab68-fbff-4828-a9ba-c91aab036044" />
+
 
 Three visuals. Three questions answered:
 - Which products are critical right now?
