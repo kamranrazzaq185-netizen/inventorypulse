@@ -143,7 +143,7 @@ inventorypulse/
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/inventorypulse.git
+git clone https://github.com/kamranrazzaq185-netizen/inventorypulse.git
 
 # Navigate to project
 cd inventorypulse
