@@ -195,7 +195,7 @@ Supply Chain Analyst | Python | Power BI | SQL | Excel
 Focused on building AI-assisted supply chain analytics 
 systems that turn operational data into forward-looking decisions.
 
-[LinkedIn](https://linkedin.com/in/kamranrazzaq) | 
+[LinkedIn](https://linkedin.com/in/kamran--razzaq) | 
 Open to remote Supply Chain Analyst opportunities
 
 ---
