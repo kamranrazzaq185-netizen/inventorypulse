@@ -14,7 +14,7 @@ By the time a stockout appears in a report, the sale is
 already lost and the customer is already frustrated.
 
 The data to prevent this exists in every order management 
-system. The signal isn't missing — it isn't being read correctly.
+system. The signal isn't missing it isn't being read correctly.
 
 InventoryPulse answers one question:
 
