@@ -196,7 +196,7 @@ Focused on building AI-assisted supply chain analytics
 systems that turn operational data into forward-looking decisions.
 
 [LinkedIn](https://linkedin.com/in/kamran--razzaq) | 
-Open to remote Supply Chain Analyst opportunities
+Available for supply chain analytics projects — dashboard builds, inventory audits, and ETL pipelines for e-commerce brands. 
 
 ---
 
